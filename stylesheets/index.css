@@ -1,0 +1,14 @@
+html {
+    color: white;
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    /*background-color: #243C55;*/
+    background-size: 50%;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
